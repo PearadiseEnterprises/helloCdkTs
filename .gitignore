@@ -68,5 +68,5 @@ yarn.lock
 # Built Visual Studio Code Extensions
 *.vsix
 
-# package lock
-package-lock.json
+bin/*
+bin

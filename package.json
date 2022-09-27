@@ -5,7 +5,7 @@
     "hello_cdk_ts": "bin/hello_cdk_ts.js"
   },
   "scripts": {
-    "start": "ts-node lib/hello_cdk_ts-stack.ts",
+    "start": "ts-node lib/infrastructureStack.ts",
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
